@@ -16,8 +16,8 @@ sidebar:
     phone: +3120 5553821
     timezone: Europe/Amsterdam Timezine
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: jellekoopsen
+    website: #do not add http://
+    linkedin: jelle-koopsen
     github: jellekpsn
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
@@ -172,23 +172,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PytRhon
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Last updated: 2023-02-13
