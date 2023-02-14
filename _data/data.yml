@@ -172,7 +172,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PytRhon
+      - name: R
         level: 98%
 
       - name: Python
